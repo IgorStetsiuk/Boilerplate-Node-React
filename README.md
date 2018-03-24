@@ -1,1 +1,1 @@
-# Store shop with  React & Node.js app
+# Simple boilerplate React, Node.js 
